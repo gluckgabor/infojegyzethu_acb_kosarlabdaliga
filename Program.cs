@@ -46,8 +46,6 @@ namespace infojegyzethu_acb_kosarlabdaliga
 
         private static void stadionok(List<Match> matchList)
         {
-            Dictionary<string,int> stadionEsMerkozesekSzama = new Dictionary<string, int>();
-
             List<string> listOfVenues = new List<string>();
             List<string> distinctListOfVenues = new List<string>();
 
