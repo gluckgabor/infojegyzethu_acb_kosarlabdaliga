@@ -1,1 +1,1 @@
-https://infojegyzet.hu/vizsgafeladatok/okj-programozas/szoftverfejleszto-nyelvvizsga/ feladat megoldása
+https://infojegyzet.hu/vizsgafeladatok/okj-programozas/szoftverfejleszto-200526/ feladat megoldása
